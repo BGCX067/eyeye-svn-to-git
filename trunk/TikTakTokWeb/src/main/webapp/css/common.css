@@ -1,0 +1,17 @@
+@CHARSET "EUC-KR";
+.home_title {text-align: center;}
+.home_div {background-image: url(../images/tiktaktok_start.jpg); width: 100%; height: 50%; background-position: center; background-repeat: no-repeat;}
+.home_div1 {padding: 0 auto;}
+.home_single_play_btn {background-image: url(../images/single_play.jpg); width: 348px; height: 234px; background-position: center; background-repeat: no-repeat; margin: 0 auto;}
+.home_multi_play_btn {background-image: url(../images/multi_play.jpg); width: 348px; height: 234px; background-position: center; background-repeat: no-repeat; margin: 0 auto;}
+.tile1 {width: 200px;height: 200px; margin-top: 10px; margin-left: 10px; margin-right: 5px; margin-bottom: 5px;}
+.tile2 {width: 200px;height: 200px; margin-top: 10px; margin-left: 0px; margin-right: 0px; margin-bottom: 5px;}
+.tile3 {width: 200px;height: 200px; margin-top: 10px; margin-left: 5px; margin-right: 10px; margin-bottom: 5px;}
+.tile4 {width: 200px;height: 200px; margin-top: 0px; margin-left: 10px; margin-right: 5px; margin-bottom: 0px;}
+.tile5 {width: 200px;height: 200px; margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px;}
+.tile6 {width: 200px;height: 200px; margin-top: 0px; margin-left: 5px; margin-right: 10px; margin-bottom: 0px;}
+.tile7 {width: 200px;height: 200px; margin-top: 5px; margin-left: 10px; margin-right: 5px; margin-bottom: 10px;}
+.tile8 {width: 200px;height: 200px; margin-top: 5px; margin-left: 0px; margin-right: 0px; margin-bottom: 10px;}
+.tile9 {width: 200px;height: 200px; margin-top: 5px; margin-left: 5px; margin-right: 10px; margin-bottom: 10px;}
+
+.div_tile{background: green; width: 640px;height: 635px;}
